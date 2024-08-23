@@ -1,9 +1,9 @@
 def encrypt(text, shift):
     encrypted_text = ""
     for char in text:
-        if char.isalpha():
-            shift_amount = shift % 26
-            char_code = ord(char)
+        if char.isalpha():  # isalpha() method in Python checks whether a string consists of only alphabetical characters.
+            shift_amount = shift % 26 
+            char_code =  # The ord() function returns the number representing the unicode code of a specified character.
             if char.islower():
                 new_code = ord('a') + (char_code - ord('a') + shift_amount) % 26
             else:
