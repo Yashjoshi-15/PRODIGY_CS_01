@@ -17,8 +17,10 @@ Choose the option to encrypt or decrypt.
 = The shift value can be any positive integer.
 
 # FUNTIONS USED IN 
-- isaplha()- isalpha() String function examines a string for alphabetical characters and returns True only if the string contains all alphabetical characters, i.e. alphabets (A-Z, a-z); else returns False
+- isaplha() String function examines a string for alphabetical characters and returns True only if the string contains all alphabetical characters, i.e. alphabets (A-Z, a-z); else returns False.
 
-- ord() -The ord() function returns the number representing the unicode code of a specified character.
+- The islower() method in Python is used to check if all the characters in a string are lowercase
+
+- ord() function returns the number representing the unicode code of a specified character.
 
 - The shift() function moves data down by the specified number of periods (1 by default) 
