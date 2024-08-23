@@ -20,3 +20,5 @@ Choose the option to encrypt or decrypt.
 - isaplha()- isalpha() String function examines a string for alphabetical characters and returns True only if the string contains all alphabetical characters, i.e. alphabets (A-Z, a-z); else returns False
 
 - ord() -The ord() function returns the number representing the unicode code of a specified character.
+
+- The shift() function moves data down by the specified number of periods (1 by default) 
