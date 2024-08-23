@@ -15,3 +15,8 @@ Choose the option to encrypt or decrypt.
 
 - The program only supports English alphabets (both uppercase and lowercase) and ignores other characters such as numbers and symbols.
 = The shift value can be any positive integer.
+
+# FUNTIONS USED IN 
+- isaplha()- 
+
+- ord() -The ord() function returns the number representing the unicode code of a specified character.
