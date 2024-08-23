@@ -17,6 +17,6 @@ Choose the option to encrypt or decrypt.
 = The shift value can be any positive integer.
 
 # FUNTIONS USED IN 
-- isaplha()- 
+- isaplha()- isalpha() String function examines a string for alphabetical characters and returns True only if the string contains all alphabetical characters, i.e. alphabets (A-Z, a-z); else returns False
 
 - ord() -The ord() function returns the number representing the unicode code of a specified character.
